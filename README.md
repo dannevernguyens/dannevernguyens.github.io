@@ -1,4 +1,6 @@
-## Welcome to GitHub Pages
+## Welcome to Daniel's Github
+
+It's not about Nguyening. It's about showing up. 
 
 You can use the [editor on GitHub](https://github.com/dannevernguyens/dannevernguyens.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
