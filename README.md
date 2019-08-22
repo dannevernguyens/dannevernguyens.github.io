@@ -31,10 +31,24 @@ I have already made great changes in my personal life. And now I would like to m
 
 ## End Intro
 
-# Begin Learning Blog #
-### Class 1 ###
+# Begin Learning Blog - Code 102 #
 
-### Class 2 ###
+### Class 01 ###
+
+### Class 02 ###
+
+Today we went over The Terminal aka The Command Line. That shit was nuts! I feel like I have to relearn how to use a computer all over again. 
+
+**Commands**
+- pwd
+- ls
+- cd
+- clear
+- cd ..
+- mkdir
+- cp
+- touch
+- mv
 
 
 
