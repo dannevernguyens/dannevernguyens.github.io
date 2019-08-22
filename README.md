@@ -13,6 +13,26 @@ To me, having a growth mindset is about relentlessly wanting to be better, in an
 2. Be better than yesterday
 3. Stay hard
 
+# About Me
+
+- I was overweight. 
+- I was shy. 
+- I was depressed. 
+- I was a quitter. 
+
+So!
+
+- I lost weight. 
+- I expanded my narrow boundaries. 
+- I (mostly) rid myself of depression and anxiety.
+- I build a stronger mindset
+
+I have already made great changes in my personal life. And now I would like to make changes in my work life. So here we are. Let's go!
+
+
+
+
+
 You can use the [editor on GitHub](https://github.com/dannevernguyens/dannevernguyens.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
