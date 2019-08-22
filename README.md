@@ -9,9 +9,9 @@ _Where it's not about Nguyening. It's about showing up._
 To me, having a growth mindset is about relentlessly wanting to be better, in any way possible. It's about not giving up before seeing something through to the end. 
 
 **3 Reminders:**
-1. Stay Hard
+1. Compare yourself only to yourself
 2. Be better than yesterday
-3. Compare yourself only to yourself
+3. Stay hard
 
 You can use the [editor on GitHub](https://github.com/dannevernguyens/dannevernguyens.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
