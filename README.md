@@ -4,7 +4,7 @@
 
 _Where it's not about Nguyening. It's about showing up._
 
-# Growth Mindset
+## Growth Mindset
 
 To me, having a growth mindset is about relentlessly wanting to be better, in any way possible. It's about not giving up before seeing something through to the end. 
 
@@ -13,7 +13,7 @@ To me, having a growth mindset is about relentlessly wanting to be better, in an
 2. Be better than yesterday
 3. Stay hard
 
-# About Me
+## About Me
 
 - I was overweight. 
 - I was shy. 
@@ -29,7 +29,13 @@ So!
 
 I have already made great changes in my personal life. And now I would like to make changes in my work life. So here we are. Let's go!
 
-# End
+## End Intro
+
+# Begin Learning Blog #
+### Class 1 ###
+
+### Class 2 ###
+
 
 
 
