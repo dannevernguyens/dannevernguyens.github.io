@@ -2,7 +2,7 @@
 
 ## Welcome to Daniel's Github
 
-Where it's not about Nguyening. It's about showing up. 
+_Where it's not about Nguyening. It's about showing up._
 
 # Growth Mindset
 
