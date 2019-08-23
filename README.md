@@ -35,9 +35,11 @@ I have already made great changes in my personal life. And now I would like to m
 
 ### Class 01 ###
 
+Today we simply introduced ourselves and got our github pages built. The prof was Brian Nations. He helped give us a lay of the land and set expectations going forward. I'm excited to go on this journey!
+
 ### Class 02 ###
 
-Today we went over The Terminal aka The Command Line. That shit was nuts! I feel like I have to relearn how to use a computer all over again. 
+Today we went over The Terminal aka The Command Line. Our prof was Amanda Iverson. That shit was nuts! I feel like I have to relearn how to use a computer all over again. 
 
 **Commands**
 - pwd = present working directory, to orient yourself!
