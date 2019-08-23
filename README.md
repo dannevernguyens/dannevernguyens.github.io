@@ -40,51 +40,17 @@ I have already made great changes in my personal life. And now I would like to m
 Today we went over The Terminal aka The Command Line. That shit was nuts! I feel like I have to relearn how to use a computer all over again. 
 
 **Commands**
-- pwd
-- ls
-- cd
-- clear
-- cd ..
-- mkdir
-- cp
-- touch
-- mv
+- pwd = present working directory, to orient yourself!
+- ls = list, to show you a list of files in your current directory
+- cd = change directory, prefix to jump into the following directory
+- clear = clears the terminal screen of previous commands and returns
+- cd .. = go back 1 file level
+- mkdir = make directory, prefix to create a file named whatever follows the prefix
+- cp = copy, prefix to copy the following file to a directory
+- touch = touch, prefix to create a file
+- mv = move, prefix followed by directory to move a file somewhere
 
 
 
 
-You can use the [editor on GitHub](https://github.com/dannevernguyens/dannevernguyens.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/dannevernguyens/dannevernguyens.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
