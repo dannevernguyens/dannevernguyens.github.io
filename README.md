@@ -24,8 +24,7 @@ As Bruce Lee once said:
 ## Table of Contents
 - [About Me](aboutme)
 - [Learning Blog](learningblog)
-- [Markdown Tips](markdown)
-- [Terminal Tips](terminal)
+- [ProTips](tips.a)
 
 
 

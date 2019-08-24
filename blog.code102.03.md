@@ -1,7 +1,7 @@
 [Home](README)|[About Me](aboutme)|[Learning Blog](learningblog)|[ProTips](tips.a)
 
 ### Class 03 
-## August 23, 2019 - Friday
+##### August 23, 2019 - Friday
 
 **Goals:** 
 -brush up on Markdown and Terminal

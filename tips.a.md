@@ -3,6 +3,5 @@
 #ProTips
 
 [**Markdown**](tips.markdown.md)
-HTML-lite. 
 
 [**Terminal**](tips.terminal.md)

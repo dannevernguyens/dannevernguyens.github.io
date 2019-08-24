@@ -1,7 +1,7 @@
 [Home](README)|[About Me](aboutme)|[Learning Blog](learningblog)|[ProTips](tips.a)
 
 ### Class 02
-## August 21, 2019 - Wednesday
+##### August 21, 2019 - Wednesday
 
 Today we went over The Terminal aka The Command Line. Our prof was Amanda Iverson. That shit was nuts! I feel like I have to relearn how to use a computer all over again. 
 
