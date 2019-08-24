@@ -19,7 +19,8 @@ To me, having a growth mindset is about relentlessly wanting to be better, in an
 
 - [About Me](aboutme)
 - [Learning Blog](learningblog)
-- Code 102 Homework
+- [Markdown Tips](markdown)
+- [Terminal Tips](terminal)
 
 
 
