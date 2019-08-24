@@ -1,4 +1,4 @@
-[Home](README)|[About Me](aboutme)|[Learning Blog](learningblog)|[ProTips](tips.a)
+[Home](/)|[About Me](aboutme)|[Learning Blog](learningblog)|[ProTips](tips.a)
 
 ### Class 02
 ##### August 21, 2019 - Wednesday

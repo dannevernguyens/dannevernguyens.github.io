@@ -1,4 +1,4 @@
-[Home](README)|[About Me](aboutme)|[Learning Blog](learningblog)|[ProTips](tips.a)
+[Home](/)|[About Me](aboutme)|[Learning Blog](learningblog)|[ProTips](tips.a)
 
 ## Markdown Cheat Sheet
 
