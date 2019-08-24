@@ -1,4 +1,4 @@
-[Home](README)
+[Home](README)|[About Me](aboutme)|[Learning Blog](learningblog)|[ProTips](tips.a)
 
 ## Terminal Cheat Sheet
 
@@ -15,3 +15,4 @@ Below are some commands you might want to remember!
 - cp = copy, prefix to copy the following file to a directory
 - touch = touch, prefix to create a file
 - mv = move, prefix followed by directory to move a file somewhere
+

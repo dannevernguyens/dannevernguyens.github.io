@@ -1,4 +1,4 @@
-[Home](README)
+[Home](README)|[About Me](aboutme)|[Learning Blog](learningblog)|[ProTips](tips.a)
 
 # About Me
 

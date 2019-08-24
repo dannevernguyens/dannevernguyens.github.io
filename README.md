@@ -1,5 +1,4 @@
 
-
 # Welcome to Daniel Nguyen's Github Learning Journal
 
 **_Where it's not about Nguyening. It's about showing up._**
@@ -23,7 +22,6 @@ As Bruce Lee once said:
 3. Stay hard
 
 ## Table of Contents
-
 - [About Me](aboutme)
 - [Learning Blog](learningblog)
 - [Markdown Tips](markdown)

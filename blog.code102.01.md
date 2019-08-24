@@ -1,4 +1,4 @@
-[Home](README)
+[Home](README)|[About Me](aboutme)|[Learning Blog](learningblog)|[ProTips](tips.a)
 
 ### Class 01 
 ## August 19, 2019 - Monday
