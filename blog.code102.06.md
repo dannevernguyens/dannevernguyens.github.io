@@ -206,6 +206,13 @@ var total = price * quantity;
 ```
 ^ In this example, two var are declared and assigned values on the same line. Then a third var is declared and assigned value on the next line. 
 
+```javascript
+// Write total into the element with id of cost
+var el = document.getElementById('cost');
+el.textContent = '$' + total;
+```
+^ In this example, a variable is used to hold a reference to an element in the HTML page. This (in theory but I don't get it yet) allows you to work directly with the element stored in that var.
+
 Shorthand can save a bit of typing but can also make your code harder to follow. For noobs, it's prob easier to spread code out over a number of lines to make it easier to read. 
 
 **RULES FOR NAMING VARIABLES**
