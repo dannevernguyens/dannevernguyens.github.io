@@ -69,11 +69,11 @@ Background color properties set the color of the background of the box around an
 
 **Contrast**
 * Low contrast
- * Bad bad. Text is harder to read when there is low contrast between background and foreground colors
+    * Bad bad. Text is harder to read when there is low contrast between background and foreground colors
 * High contrast
- * Text is easier to read when there is higher contrast. But this can become exhausting if you are reading a large amount of text. 
+    * Text is easier to read when there is higher contrast. But this can become exhausting if you are reading a large amount of text. 
 * Medium contrast
- * For long spans of text, medium contrast is ideal for reading comfort. 
+    * For long spans of text, medium contrast is ideal for reading comfort. 
 
 **Opacity** 
 Opacity value is a number between 0 and 1.0. So a value of 0.5 is 50% opacity and 0.15 is 15% opacity. 
