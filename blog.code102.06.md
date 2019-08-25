@@ -190,7 +190,7 @@ var price = 5;
 var quantity = 14;
 var total = price * quantity;
 ```
-In this example, the var are declared and values assigned in the same statement.
+^ In this example, the var are declared and values assigned in the same statement.
 
 ```javascript
 var price, quantity, total;
@@ -198,13 +198,13 @@ price = 5;
 quantity = 14;
 total = price * quantity;
 ```
-In this example, three var are declared on the same line, then values assigned to each.
+^ In this example, three var are declared on the same line, then values assigned to each.
 
 ```javascript
 var price = 5, quantity = 14;
 var total = price * quantity;
 ```
-In this example, two var are declared and assigned values on the same line. Then a third var is declared and assigned value on the next line. 
+^ In this example, two var are declared and assigned values on the same line. Then a third var is declared and assigned value on the next line. 
 
 Shorthand can save a bit of typing but can also make your code harder to follow. For noobs, it's prob easier to spread code out over a number of lines to make it easier to read. 
 
