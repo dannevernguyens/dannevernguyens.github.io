@@ -1,7 +1,7 @@
 
 [Home](/)|[About Me](aboutme)|[Learning Blog](learningblog)|[ProTips](tips.a)
 
-### Reading & Lab 04
+### Reading & Lab 04 - HTML Structure
 ##### August 24, 2019 - Saturday
 
 Now we are reviewing HTML
@@ -62,25 +62,25 @@ Most users do not read, they skim. So you need to present the hierarchy if your 
 Viz hierarchy refers to the order in which your eyes perceive what they see. You do this by adding visual contrast between items on display. Higher contrast items are recognized and processed first. 
 
 This is achieved by modifying:
-size
-color
-style
+- size
+- color
+- style
 
 Grouping and Similarity:
-proximity
-closure
-continuance
-White space
-color
-borders
+- proximity
+- closure
+- continuance
+- White space
+- color
+- borders
 
 Designing Navigation
-concise: try to limit nav to no more than 8 links
-Clear: nav links should be descriptive enough to give users Clear idea of where the link will take them
-selective: nav should only reflect important sections of the site - don’t link out to privacy policies on main nav
-Context: good nav provides context, so user always knows where they are, kinda like pwd
-Interactive: each link should be big and clear enough to interact with, also nice if visual indicator changes during mouseover
-Consistent: keep nav bars consistent across site
+- concise: try to limit nav to no more than 8 links
+- Clear: nav links should be descriptive enough to give users Clear idea of where the link will take them
+- selective: nav should only reflect important sections of the site - don’t link out to privacy policies on main nav
+- Context: good nav provides context, so user always knows where they are, kinda like pwd
+- Interactive: each link should be big and clear enough to interact with, also nice if visual indicator changes during mouseover
+- Consistent: keep nav bars consistent across site
 
 HTML 5 Readings
 In reading this, I realized that my work uses <div> everywhere and it’s a kind of outdated methodology. 

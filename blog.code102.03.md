@@ -1,6 +1,6 @@
 [Home](/)|[About Me](aboutme)|[Learning Blog](learningblog)|[ProTips](tips.a)
 
-### Reading & Lab 03 
+### Reading & Lab 03 - Revisions and the Cloud
 ##### August 23, 2019 - Friday
 
 **Goals:** 
