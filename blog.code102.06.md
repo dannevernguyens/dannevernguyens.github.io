@@ -144,7 +144,7 @@ For single-line comments, anything that follows the // characters on that line w
 **VARIABLES**
 Scripts will have to temporarily store bits of info it needs to do its job. This data is stored in VARIABLES. These variables are like short-term memory, because once the user leaves the page, the browser will forget any info those variables were holding. This data element is called a VARIABLE because the data stored can change or vary each time the script runs. The result of these scripts is said to be **calculated** or **computed** using the data stored on the variables. This usage is very similar to algebra where letters are used to represent numbers. 
 
-HOW TO DECLARE VARIABLES
+**HOW TO DECLARE VARIABLES**
 Before you can use a variable, you need to announce that you want to use it. This involves creating the variable and giving it a name. This is called **declaring** the variable. 
 
 ```javascript
@@ -153,7 +153,7 @@ var quantity;
 
 In the above example, var is the variable keyword and quantity; is the name of the variable that has been declared. If a variable name is more than one word, it is usually written in camelCase. 
 
-HOW TO ASSIGN VALUES TO VARIABLES
+**HOW TO ASSIGN VALUES TO VARIABLES**
 Once you make a variable, you can tell what info you want it to store. This is called **assigning a value** to the variable. 
 
 ```javascript
@@ -162,3 +162,22 @@ quantity = 3;
 Here quantity is the variable name and the variable value is placed before the semicolon. Further, the equal sign is an **assignment operator**. (this implies that operators can be something other than an equal sign!!??) If a value hasn't been assigned to a variable, it is said that the value is **undefined**.
 
 **DATA TYPES**
+NUMERIC DATA TYPE - numbers ex: 0.75
+STRING DATA TYPE -  letters and other characters (can include HTML markup) ex: 'Hi, Ivy!'
+BOOLEAN DATA TYPE - true or false ex: true
+
+There are other data types in js that we will learn later: arrays, objects, undefined, and null.
+
+Unlike in other languages, when declaring a var in js, you do not need to specify what type of data it will hold. 
+
+**USING A VARIABLE TO STORE A NUMBER**
+Numbers are not written inside quotation marks. 
+
+**USING A VARIABLE TO STORE A STRING**
+String var are placed inside quote marks. You can use double or single quotes but your starting and ending quotes must match!! Quotes should also be straight, no curly quotes. Strings must also always be written on a single line. 
+
+**USING QUOTES INSIDE A STRING**
+For text formatting reasons, sometimes you will want to use a quote inside a string. 
+If you want to use double quotes, you can surround the entire string in single quotes. 
+If you want to use single quotes, you can surround the entire string in double quotes. 
+You can also use a technique called **escaping** by using a backslash *before* any type of quote mark that is in a string. This backslash will tell the machine that the following character is part of the string and not the end of the string. 
