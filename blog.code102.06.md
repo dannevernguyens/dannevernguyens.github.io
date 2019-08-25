@@ -162,9 +162,9 @@ quantity = 3;
 Here quantity is the variable name and the variable value is placed before the semicolon. Further, the equal sign is an **assignment operator**. (this implies that operators can be something other than an equal sign!!??) If a value hasn't been assigned to a variable, it is said that the value is **undefined**.
 
 **DATA TYPES**
-NUMERIC DATA TYPE - numbers ex: 0.75
-STRING DATA TYPE -  letters and other characters (can include HTML markup) ex: 'Hi, Ivy!'
-BOOLEAN DATA TYPE - true or false ex: true
+* NUMERIC DATA TYPE - numbers ex: 0.75
+* STRING DATA TYPE -  letters and other characters (can include HTML markup) ex: 'Hi, Ivy!'
+* BOOLEAN DATA TYPE - true or false ex: true
 
 There are other data types in js that we will learn later: arrays, objects, undefined, and null.
 
@@ -181,3 +181,7 @@ For text formatting reasons, sometimes you will want to use a quote inside a str
 If you want to use double quotes, you can surround the entire string in single quotes. 
 If you want to use single quotes, you can surround the entire string in double quotes. 
 You can also use a technique called **escaping** by using a backslash *before* any type of quote mark that is in a string. This backslash will tell the machine that the following character is part of the string and not the end of the string. 
+
+**RULES FOR NAMING VARIABLES**
+1. Name must begin with a letter, $, or _. Name CANNOT start with a number
+2. Name can contain letters, numbers, $, or _. You cannot use - or . in a variable name. 
