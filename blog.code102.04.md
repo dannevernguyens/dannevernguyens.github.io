@@ -21,7 +21,7 @@ HTML page hierarchy:
 - Main
 - section
 - Article
-- <p>
+- \<p\>
 - /contents/
 - footer
 
