@@ -183,5 +183,9 @@ If you want to use single quotes, you can surround the entire string in double q
 You can also use a technique called **escaping** by using a backslash *before* any type of quote mark that is in a string. This backslash will tell the machine that the following character is part of the string and not the end of the string. 
 
 **RULES FOR NAMING VARIABLES**
-1. Name must begin with a letter, $, or _. Name CANNOT start with a number
-2. Name can contain letters, numbers, $, or _. You cannot use - or . in a variable name. 
+1. Name must begin with a letter, $ (dollar sign), or _ (underscore). Name CANNOT start with a number
+2. Name can contain letters, numbers, $ (dollar sign), or _ (underscore). You cannot use - (dash) or . (period) in a variable name. 
+3. You cannot use keywords or reserved words. Keywords are special commands like 'var' and reserved words are ones saved to be possibly used in future versions of js. 
+4. All variables are case sensitive. However, it is bad practice to make two variables with the same name in different cases. 
+5. Use a name that describes the kind of info the variable stores. ex: firstName for first names. 
+6. If your variable has more than one word, use camel case for every word after the first. ex: firstName
