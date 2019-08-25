@@ -182,6 +182,32 @@ If you want to use double quotes, you can surround the entire string in single q
 If you want to use single quotes, you can surround the entire string in double quotes. 
 You can also use a technique called **escaping** by using a backslash *before* any type of quote mark that is in a string. This backslash will tell the machine that the following character is part of the string and not the end of the string. 
 
+**SHORTHAND FOR CREATING VARIABLES**
+Here are a few variations of how to declare variables and assign them values.
+
+```javascript
+var price = 5;
+var quantity = 14;
+var total = price * quantity;
+```
+In this example, the var are declared and values assigned in the same statement.
+
+```javascript
+var price, quantity, total;
+price = 5;
+quantity = 14;
+total = price * quantity;
+```
+In this example, three var are declared on the same line, then values assigned to each.
+
+```javascript
+var price = 5, quantity = 14;
+var total = price * quantity;
+```
+In this example, two var are declared and assigned values on the same line. Then a third var is declared and assigned value on the next line. 
+
+Shorthand can save a bit of typing but can also make your code harder to follow. For noobs, it's prob easier to spread code out over a number of lines to make it easier to read. 
+
 **RULES FOR NAMING VARIABLES**
 1. Name must begin with a letter, $ (dollar sign), or _ (underscore). Name CANNOT start with a number
 2. Name can contain letters, numbers, $ (dollar sign), or _ (underscore). You cannot use - (dash) or . (period) in a variable name. 
