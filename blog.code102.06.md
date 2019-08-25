@@ -89,9 +89,9 @@ Back to our regularly scheduled programming.
 **Statements & Scripts**
 A script is a series of instructions that a computer can follow. Each step is known as a statement. Statements should end with a semicolon. 
 
-* lines of code in blue are statements
+* lines of code with 'var' are statements
 * curly braces indicate start and end of code block
-* code in purple determines which code should run
+* code with 'if' and 'else if' determines which code should run
 
 ```javascript
 var today = new Date();
@@ -154,4 +154,11 @@ var quantity;
 In the above example, var is the variable keyword and quantity; is the name of the variable that has been declared. If a variable name is more than one word, it is usually written in camelCase. 
 
 HOW TO ASSIGN VALUES TO VARIABLES
+Once you make a variable, you can tell what info you want it to store. This is called **assigning a value** to the variable. 
 
+```javascript
+quantity = 3;
+```
+Here quantity is the variable name and the variable value is placed before the semicolon. Further, the equal sign is an **assignment operator**. (this implies that operators can be something other than an equal sign!!??) If a value hasn't been assigned to a variable, it is said that the value is **undefined**.
+
+**DATA TYPES**
