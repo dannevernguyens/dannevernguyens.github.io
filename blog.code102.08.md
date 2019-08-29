@@ -66,7 +66,8 @@ For Loop - runs **for** as many times (#) as you tell it
 
 While Loop - runs **while** a condition is true/met
 
-FOR LOOPS are used for traversals or iterations. These are good if we know how many # something needs to run. **USED OFTEN. VERY FUNDAMENTAL**. These loops are not tied to a specific language.
+######FOR LOOPS 
+are used for traversals or iterations. These are good if we know how many # something needs to run. **USED OFTEN. VERY FUNDAMENTAL**. These loops are not tied to a specific language.
 
 Syntax for FOR LOOP:
 3 RULES!! NOT OPTIONAL.
@@ -76,29 +77,34 @@ Syntax for FOR LOOP:
 
 All 3 parts are included within argument of FOR loop. "i" is industry standard variable for FOR loop.
 
-Simple example
+**Simple example**
 ```javascript
 for(){
 // code goes here
 }
 ```
-Richer example
+
+
+**Richer example**
 ```javascript
 for(var i = 0; i < 5; i++){
     console.log('i is: ' + i);
 }
 console.log('For loop is complete');
 ```
+
+
 **TRUTH TABLE** A way to confirm that code works? Used to be done by hand on paper. Need to look up how to code this in markdown. 
 
-Decrementing example (going down)
+
+**Decrementing example (going down)**
 ```javascript
 for(var j = 5; j > 0; j--){
     console.log('j is: ' + j);
 }
 ```
 
-Example of Infinite Loop
+**Example of Infinite Loop**
 ```javascript
 for(var i = 1; i > 0; i++){
     // this will create an infinite loop as there is no condition to stop it
@@ -107,6 +113,76 @@ for(var i = 1; i > 0; i++){
 }
 ```
 
+```javascript
+var candy = 10;
 
+for(var x = 0; x < candy; x++)
+{ 
+console.log('Candy is Delicious!');
+}
+// This will return the log message 10 times
+```
+
+###### WHILE LOOP
+
+**1 Rule:**
+1. condition must be met
+
+```javascript
+while(){
+// code goes here
+}
+```
+
+While loop will run while condition in () is met. While loop does not self-increment or self-decrement.
+
+
+```javascript
+var count = 0;
+
+while(count < 5){
+    console.log("count is: " + count);
+    count++; 
+    // diff from for loops , need this ++ line to change value
+    // as while loops dont self-increment
+}
+```
+
+**isNaN** is not a number = this is a legit js function to deal with non numbers when code expects number input. Value return is either **true** or **false**. Doesn't run on False.
+
+**Return true if value is not a number.** 
+
+**Return false if value is number.**
+
+
+```javascript
+isNaN()
+```
+
+
+```javascript
+var howMany = function(){
+    var count = prompt('How many would you like to order');
+    while( isNaN(count) ){
+        count = prompt('Please enter a number, How many would you like to order?');
+    }
+    return Number(count); 
+    // Number is reserved function
+    // isNaN is reserved function
+}
+
+var showOrder = function(){
+    var total = howMany();
+    var result = '';
+    // this tells other devs that the intention of this is to show a string
+    for(var i = 0; i < total; i++){
+       // result = result + '<li> Model #' + i + '</li>';
+       result += '<li> Model #' + i + '</li>'; // gives us the # of orders in <li> items
+// the two result lines above serve same function. the += thing allows you to clean up code
+// the += allows you to keep previous iterations of RESULT and return those
+// the += takes all RESULT values and adds new ones as new lines
+    }
+}
+```
 
 
