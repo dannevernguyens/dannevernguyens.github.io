@@ -185,4 +185,6 @@ var showOrder = function(){
 }
 ```
 
+For lab, implement these kinds of scripts as outputs on website page. As document.write.
+
 
