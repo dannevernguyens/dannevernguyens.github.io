@@ -53,3 +53,60 @@ Modern computers now have more and more forms of input/output which allows us an
 Circuits are also always getting smaller and faster. The smaller they are, the less distance the signal needs to travel. This makes them faster as they get smaller as well. 
 
 **CPU & OS** The CPU is a series of complex circuits. It is the commander of those circuits and assigns them tasks depending on what the machine is asked to do. It aims to optimize the usage of the circuits. The OS helps the CPU determine which programs get access to which circuits and when. 
+
+###### Lecture Notes - Loops
+
+You can create loops but you can also define how many times the loop will execute. 
+
+1 run = 1 execution
+
+Loop does something until a result is met.
+
+For Loop - runs **for** as many times (#) as you tell it
+
+While Loop - runs **while** a condition is true/met
+
+FOR LOOPS are used for traversals or iterations. These are good if we know how many # something needs to run. **USED OFTEN. VERY FUNDAMENTAL**. These loops are not tied to a specific language.
+
+Syntax for FOR LOOP:
+3 RULES!! NOT OPTIONAL.
+1. DECLARE A VARIABLE AND SETS ITS VALUE
+2. SET A CONDITION TO THE # OF TIMES IT WILL RUN
+3. DEFINE WHAT WILL HAPPEN WHEN 1 EXECUTION IS COMPLETED
+
+All 3 parts are included within argument of FOR loop. "i" is industry standard variable for FOR loop.
+
+Simple example
+```javascript
+for(){
+// code goes here
+}
+```
+Richer example
+```javascript
+for(var i = 0; i < 5; i++){
+    console.log('i is: ' + i);
+}
+console.log('For loop is complete');
+```
+**TRUTH TABLE** A way to confirm that code works? Used to be done by hand on paper. Need to look up how to code this in markdown. 
+
+Decrementing example (going down)
+```javascript
+for(var j = 5; j > 0; j--){
+    console.log('j is: ' + j);
+}
+```
+
+Example of Infinite Loop
+```javascript
+for(var i = 1; i > 0; i++){
+    // this will create an infinite loop as there is no condition to stop it
+    // just gonna keep getting a bigger i forever
+    // this will create a crash or blue screen of death
+}
+```
+
+
+
+
