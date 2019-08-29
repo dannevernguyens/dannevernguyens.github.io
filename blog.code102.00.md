@@ -15,3 +15,7 @@
 [**Reading & Lab 06**](blog.code102.06) August 24, 2019 - Saturday
 
 [**Reading & Lab 07**](blog.code102.07) August 26, 2019 - Monday
+
+[**Reading & Lab 08**](blog.code102.08) August 28, 2019 - Wednesday
+
+[**Reading & Lab 09**](blog.code102.09) August 26, 2019 - Friday
